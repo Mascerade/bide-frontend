@@ -1,19 +1,19 @@
 <template>
-  <div class="w-full flex flex-col lg:flex-row lg:pl-24 lg:mt-20">
+  <div class="w-full flex flex-col lg:flex-row lg:pl-24 lg:pb-10 lg:mt-20">
     <div class="flex items-center w-full lg:w-1/2 lg:pr-5">
       <div>
-        <h1 class="text-green-500 font-medium lg:text-6xl">
+        <h1 class="text-text-secondary-500 font-medium lg:text-6xl">
           Facilitating Productive Online Interactions
         </h1>
         <h2
-          class="text-gray-600 lg:text-3xl lg:leading-10 lg:mt-4 lg:pt-4 lg:pr-36"
+          class="text-text-primary-600 lg:text-3xl lg:leading-10 lg:mt-4 lg:pt-4 lg:pr-36"
         >
           A social platform designed to make it easier for people to engage
           respectfully <span class="text-green-500">and</span> with a sense of
           purpose.
         </h2>
         <button
-          class="bg-green-400 hover:bg-green-300 text-white rounded-lg lg:text-2xl lg:pr-8 lg:pl-8 lg:pt-3 lg:pb-3 lg:mt-10"
+          class="bg-bg-secondary-400 hover:bg-bg-secondary-300 text-text-primary-cp rounded-lg lg:text-2xl lg:pr-8 lg:pl-8 lg:pt-3 lg:pb-3 lg:mt-10"
         >
           Get Started
         </button>

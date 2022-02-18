@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div class="flex flex-col w-full">
+    <h2 class="lg:pt-11 text-3xl">jsljfd</h2>
+  </div>
 </template>
 
 <script lang="ts">
