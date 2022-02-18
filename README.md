@@ -1,24 +1,6 @@
-# bide-frontend
+# Bide
 
-## Project setup
-```
-npm install
-```
+## Attributions
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Next icons created by deemakdaksina - Flaticon]("https://www.flaticon.com/free-icons/next")
+[Download icons created by Roundicons Premium - Flaticon]("https://www.flaticon.com/free-icons/download")
