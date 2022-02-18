@@ -7,12 +7,12 @@
     </div>
     <div>
       <button
-        class="bg-bg-primary-cp-700 hover:bg-bg-primary-cp-500 text-text-primary-cp rounded-lg lg:pr-6 lg:pl-6 lg:pt-2 lg:pb-2 lg:mr-4"
+        class="bg-bg-secondary-600 hover:bg-bg-secondary-500 text-text-primary-cp font-semibold rounded-lg lg:pr-6 lg:pl-6 lg:pt-2 lg:pb-2 lg:mr-4"
       >
         Sign Up
       </button>
       <button
-        class="bg-bg-primary-cp-700 hover:bg-bg-primary-cp-500 text-text-primary-cp rounded-lg lg:pr-6 lg:pl-6 lg:pt-2 lg:pb-2"
+        class="bg-bg-secondary-600 hover:bg-bg-secondary-500 text-text-primary-cp font-semibold rounded-lg lg:pr-6 lg:pl-6 lg:pt-2 lg:pb-2"
       >
         Sign In
       </button>

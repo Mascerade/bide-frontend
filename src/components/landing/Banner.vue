@@ -1,5 +1,11 @@
 <template>
-  <div class="w-full green-gradient-2 lg:h-20 bg-gray-600 z-10 shadow-xl"></div>
+  <div
+    class="w-full flex items-center justify-center green-gradient-1 lg:h-20 bg-gray-600 z-10 shadow-lg"
+  >
+    <h1 class="lg:text-5xl text-text-primary-cp">
+      So What Makes Bide Different?
+    </h1>
+  </div>
 </template>
 
 <script lang="ts">

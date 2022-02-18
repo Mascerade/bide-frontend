@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col w-full">
-    <h2 class="lg:pt-11 text-3xl">jsljfd</h2>
+    <h2 class="lg:pt-11 text-3xl"></h2>
   </div>
 </template>
 
