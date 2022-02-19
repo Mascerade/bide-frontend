@@ -6,16 +6,17 @@
       <a class="text-text-primary-600 lg:text-2xl">Features</a>
     </div>
     <div>
-      <button
+      <router-link
+        :to="{ path: '/signup' }"
         class="bg-bg-secondary-600 hover:bg-bg-secondary-500 text-text-primary-cp font-semibold rounded-lg lg:pr-6 lg:pl-6 lg:pt-2 lg:pb-2 lg:mr-4"
       >
         Sign Up
-      </button>
-      <button
+      </router-link>
+      <a
         class="bg-bg-secondary-600 hover:bg-bg-secondary-500 text-text-primary-cp font-semibold rounded-lg lg:pr-6 lg:pl-6 lg:pt-2 lg:pb-2"
       >
         Sign In
-      </button>
+      </a>
     </div>
   </div>
 </template>

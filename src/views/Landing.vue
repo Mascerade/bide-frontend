@@ -9,10 +9,10 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import Navbar from '../navigation/Navbar.vue'
-import Introduction from './Introduction.vue'
-import Banner from './Banner.vue'
-import GroupInfo from './GroupInfo.vue'
+import Navbar from '../components/navigation/Navbar.vue'
+import Introduction from '../components/landing/Introduction.vue'
+import Banner from '../components/landing/Banner.vue'
+import GroupInfo from '../components/landing/GroupInfo.vue'
 
 export default defineComponent({
   components: {
