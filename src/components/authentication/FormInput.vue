@@ -1,18 +1,17 @@
 <template>
-  <div>
-    <label for="" class="block text-lg mb-1"><slot></slot></label>
-    <input
-      type="text"
-      :placeholder="placeholder"
-      :value="inputBind"
-      @input="$emit('update:inputBind', $event.target.value)"
-      class="h-8 w-11/12 border-b-2 border-bg-secondary-500 focus:outline-none mb-3"
-    />
-  </div>
+  <input
+    type="text"
+    :placeholder="placeholder"
+    :value="inputBind"
+    @input="$emit('update:inputBind', $event.target.value)"
+    class="h-12 w-11/12 pl-4 text-xl bg-bg-primary-cp-100 rounded-lg focus:outline-none mb-4"
+  />
 </template>
 
 <script>
 import { defineComponent } from 'vue'
+
+//       style="background-color: #f4f8f7"
 
 export default defineComponent({
   props: {
