@@ -22,3 +22,4 @@
 <a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/letter-g" title="letter g icons">Letter g icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/forest" title="forest icons">Forest icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/help" title="help icons">Help icons created by Freepik - Flaticon</a>
