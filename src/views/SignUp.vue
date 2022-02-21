@@ -25,7 +25,7 @@
         <h2
           class="lg:mb-8 lg:text-md text-text-primary-600 font-medium text-center"
         >
-          Or Sign in Manually
+          Or Sign-In Manually
         </h2>
 
         <form-input :placeholder="'ID'" v-model:inputBind="userId"></form-input>
@@ -39,6 +39,11 @@
         ></form-input>
         <general-button class="lg:mt-10 lg:pr-32 lg:pl-32"
           >Sign Up</general-button
+        >
+        <router-link
+          class="lg:mt-4 lg:text-lg underline text-text-primary-700"
+          :to="'/'"
+          >Back</router-link
         >
       </div>
     </div>
