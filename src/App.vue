@@ -25,4 +25,9 @@ export default defineComponent({
 .green-gradient-2 {
   background: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
 }
+
+.green-gradient-3 {
+  background-color: white;
+  background-image: linear-gradient(300deg, #98de5b 52%, white 0%);
+}
 </style>
