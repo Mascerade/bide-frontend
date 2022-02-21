@@ -24,3 +24,8 @@
 <a href="https://www.flaticon.com/free-icons/forest" title="forest icons">Forest icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/help" title="help icons">Help icons created by Freepik - Flaticon</a>
 <a href='https://www.freepik.com/vectors/people-standing'>People standing vector created by pch.vector - www.freepik.com</a>
+<a href="https://www.flaticon.com/free-icons/token" title="token icons">Token icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/private" title="private icons">Private icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/public" title="public icons">Public icons created by Iconjam - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/pray" title="pray icons">Pray icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/criticism" title="criticism icons">Criticism icons created by Freepik - Flaticon</a>

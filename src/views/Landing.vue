@@ -68,7 +68,7 @@
           <h1
             class="text-text-secondary-500 font-medium lg:text-4xl lg:mt-10 text-center"
           >
-            Groups for Your Specific Interest
+            Groups for Your Specific Interests
           </h1>
           <h2 class="text-text-primary-600 lg:text-2xl lg:mt-6 text-center">
             Bide was created for people to find
@@ -109,7 +109,7 @@
             Once in a group, the group as a
             <span class="text-text-secondary-500">whole</span> makes decisions.
             Bide brings true
-            <span class="text-text-secondary-500">deomocratics processes</span>
+            <span class="text-text-secondary-500">deomocratic processes</span>
             to the internet. This way, the
             <span class="text-text-secondary-500">people</span> are truly in
             control over what happens.
@@ -119,7 +119,7 @@
     </div>
 
     <div class="w-full lg:pt-24 lg:pb-24 bg-bg-secondary-500">
-      <h1 class="text-text-primary-cp font-medium text-5xl text-center">
+      <h1 class="text-text-secondary-50 font-medium text-5xl text-center">
         Differentiating Features
       </h1>
       <div></div>
