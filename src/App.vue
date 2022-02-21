@@ -12,6 +12,11 @@ export default defineComponent({
 </script>
 
 <style>
+.fullscreen {
+  height: 100vh;
+  width: 100vw;
+}
+
 .green-gradient-1 {
   background-color: #08e1ae;
   background-image: linear-gradient(315deg, #08e1ae 0%, #98de5b 74%);
