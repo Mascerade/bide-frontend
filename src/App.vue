@@ -30,4 +30,28 @@ export default defineComponent({
   background-color: white;
   background-image: linear-gradient(300deg, #98de5b 52%, white 0%);
 }
+
+.green-gradient-4 {
+  background: hsla(142, 71%, 45%, 1);
+
+  background: radial-gradient(
+    circle,
+    hsla(142, 71%, 45%, 1) 0%,
+    hsla(142, 69%, 58%, 0.8) 100%
+  );
+
+  background: -moz-radial-gradient(
+    circle,
+    hsla(142, 71%, 45%, 1) 0%,
+    hsla(142, 69%, 58%, 0.8) 100%
+  );
+
+  background: -webkit-radial-gradient(
+    circle,
+    hsla(142, 71%, 45%, 1) 0%,
+    hsla(142, 69%, 58%, 0.8) 100%
+  );
+
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#22C55E", endColorstr="#4ADE80", GradientType=1 );
+}
 </style>

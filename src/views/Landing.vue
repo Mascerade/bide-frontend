@@ -43,7 +43,21 @@
 
     <banner class="" />
 
-    <div class="bg-bg-primary-cp-50 lg:pt-24">
+    <div class="bg-bg-primary-cp-100 lg:pt-24">
+      <div>
+        <h1
+          class="text-text-secondary-500 font-medium lg:text-5xl text-center lg:mb-5"
+        >
+          Bide is Dedicated to Connecting People
+        </h1>
+        <h2
+          class="text-text-primary-600 font-medium lg:text-2xl text-center lg:mb-16 lg:pr-96 lg:pl-96"
+        >
+          and nothing else. We simply want to be the bridge from
+          <span class="text-text-secondary-500">you</span> to those who have
+          similar <span class="text-text-secondary-500">interests</span> to you.
+        </h2>
+      </div>
       <div
         class="w-full flex flex-col justify-center lg:flex-row lg:pl-32 lg:pr-32 lg:mb-24"
       >
@@ -103,6 +117,13 @@
         </div>
       </div>
     </div>
+
+    <div class="w-full lg:pt-24 lg:pb-24 bg-bg-secondary-500">
+      <h1 class="text-text-primary-cp font-medium text-5xl text-center">
+        Differentiating Features
+      </h1>
+      <div></div>
+    </div>
   </div>
 </template>
 
@@ -112,8 +133,6 @@ import Navbar from '../components/navigation/Navbar.vue'
 import BoxCard from '../components/landing/BoxCard.vue'
 import Banner from '../components/landing/Banner.vue'
 import CircleImage from '@/components/landing/CircleImage.vue'
-import BideDifferenceTitle from '@/components/landing/BideDifferenceTitle.vue'
-import BideDifferenceDescription from '@/components/landing/BideDifferenceDescription.vue'
 
 export default defineComponent({
   components: {
@@ -121,8 +140,6 @@ export default defineComponent({
     BoxCard,
     Banner,
     CircleImage
-    // BideDifferenceTitle,
-    // BideDifferenceDescription
   }
 })
 </script>
