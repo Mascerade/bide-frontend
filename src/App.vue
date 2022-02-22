@@ -13,8 +13,8 @@ export default defineComponent({
 
 <style>
 .fullscreen {
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
 }
 
 .green-gradient-1 {

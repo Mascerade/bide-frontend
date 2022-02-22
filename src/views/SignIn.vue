@@ -1,7 +1,7 @@
 <template>
-  <div class="fullscreen flex flex-row">
+  <div class="lg:min-h-full fullscreen flex flex-row">
     <div
-      class="lg:w-2/5 flex flex-col justify-center items-center bg-bg-secondary-300"
+      class="lg:h-full lg:w-2/5 flex flex-col justify-center items-center bg-bg-secondary-300"
     >
       <h1 class="font-semibold text-text-primary-700 lg:text-6xl lg:mb-5">
         Welcome
@@ -16,7 +16,7 @@
       </h1>
     </div>
 
-    <div class="lg:w-3/5 flex justify-center items-center">
+    <div class="lg:h-full lg:w-3/5 flex justify-center items-center">
       <div class="lg:w-2/3 flex flex-col items-center">
         <h1
           class="lg:text-6xl lg:mb-8 text-center font-semibold text-text-secondary-500"
