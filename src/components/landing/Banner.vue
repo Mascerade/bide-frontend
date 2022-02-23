@@ -1,8 +1,8 @@
 <template>
   <div
-    class="w-full flex items-center justify-center bg-bg-secondary-400 lg:h-16 xl:h-20 bg-gray-600 z-10 shadow-xl"
+    class="w-full flex items-center justify-center bg-green-400 lg:h-16 xl:h-20 bg-gray-600 z-10 shadow-xl"
   >
-    <h1 class="lg:text-4xl xl:text-5xl text-text-primary-cp">
+    <h1 class="lg:text-4xl xl:text-5xl text-white">
       So What Makes Bide Different?
     </h1>
   </div>

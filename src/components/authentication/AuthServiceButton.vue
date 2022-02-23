@@ -1,6 +1,6 @@
 <template>
   <button
-    class="h-16 w-16 flex justify-center items-center rounded-full border-2 border-bg-primary-cp-100 shadow-sm"
+    class="h-16 w-16 flex justify-center items-center rounded-full border-2 border-gray-100 shadow-sm"
   >
     <img class="h-8 w-8" :src="src" alt="Authentication Service" />
   </button>

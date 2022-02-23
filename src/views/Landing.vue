@@ -7,13 +7,11 @@
           class="flex items-center justify-center w-full lg:w-1/2 lg:pl-24 xl:pl-32"
         >
           <div>
-            <h1
-              class="text-text-secondary-500 font-medium lg:text-5xl xl:text-6xl"
-            >
+            <h1 class="text-green-500 font-medium lg:text-5xl xl:text-6xl">
               Facilitating Productive Online Interactions
             </h1>
             <h2
-              class="text-text-primary-600 lg:text-2xl xl:text-3xl xl:leading-10 lg:mt-2 xl:mt-4 lg:pt-2 xl:pt-4 lg:pr-24 xl:pr-36"
+              class="text-gray-600 lg:text-2xl xl:text-3xl xl:leading-10 lg:mt-2 xl:mt-4 lg:pt-2 xl:pt-4 lg:pr-24 xl:pr-36"
             >
               A social platform designed to make it easier for people to engage
               respectfully <span class="text-green-500">and</span> with a sense
@@ -45,19 +43,19 @@
 
     <banner class="" />
 
-    <div class="bg-bg-primary-cp-100 lg:pt-14 xl:pt-24">
+    <div class="bg-gray-100 lg:pt-14 xl:pt-24">
       <div>
         <h1
-          class="text-text-secondary-500 font-medium lg:text-4xl xl:text-5xl text-center xl:mb-5"
+          class="text-green-500 font-medium lg:text-4xl xl:text-5xl text-center xl:mb-5"
         >
           Bide is Dedicated to Connecting People
         </h1>
         <h2
-          class="text-text-primary-600 font-medium lg:text-xl xl:text-2xl text-center lg:mb-12 xl:mb-16 lg:pr-48 xl:pr-96 lg:pl-48 xl:pl-96"
+          class="text-gray-600 font-medium lg:text-xl xl:text-2xl text-center lg:mb-12 xl:mb-16 lg:pr-48 xl:pr-96 lg:pl-48 xl:pl-96"
         >
           and nothing else. We simply want to be the bridge from
-          <span class="text-text-secondary-500">you</span> to those who have
-          similar <span class="text-text-secondary-500">interests</span> to you.
+          <span class="text-green-500">you</span> to those who have similar
+          <span class="text-green-500">interests</span> to you.
         </h2>
       </div>
 
@@ -70,11 +68,11 @@
           <template v-slot:title> Groups for Your Specific Interests </template>
           <template v-slot:caption>
             Many other social media axlorithms promote
-            <span class="text-text-secondary-500">hate</span> and
-            <span class="text-text-secondary-500">negativity</span>. Bide
-            attempts to redefine the way we use social media in order to have
-            <span class="text-text-secondary-500">discussions</span> and build
-            on one another.
+            <span class="text-green-500">hate</span> and
+            <span class="text-green-500">negativity</span>. Bide attempts to
+            redefine the way we use social media in order to have
+            <span class="text-green-500">discussions</span> and build on one
+            another.
           </template>
         </image-caption-container>
 
@@ -82,11 +80,11 @@
           <template v-slot:title> Cooperation Over Arguments </template>
           <template v-slot:caption>
             Many other social media axlorithms promote
-            <span class="text-text-secondary-500">hate</span> and
-            <span class="text-text-secondary-500">negativity</span>. Bide
-            attempts to redefine the way we use social media in order to have
-            <span class="text-text-secondary-500">discussions</span> and build
-            on one another.
+            <span class="text-green-500">hate</span> and
+            <span class="text-green-500">negativity</span>. Bide attempts to
+            redefine the way we use social media in order to have
+            <span class="text-green-500">discussions</span> and build on one
+            another.
           </template>
         </image-caption-container>
 
@@ -94,21 +92,19 @@
           <template v-slot:title> The Community Decides Everything </template>
           <template v-slot:caption>
             Once in a group, the group as a
-            <span class="text-text-secondary-500">whole</span> makes decisions.
-            Bide brings true
-            <span class="text-text-secondary-500">deomocratic processes</span>
+            <span class="text-green-500">whole</span> makes decisions. Bide
+            brings true
+            <span class="text-green-500">deomocratic processes</span>
             to the internet. This way, the
-            <span class="text-text-secondary-500">people</span> are truly in
-            control over what happens.
+            <span class="text-green-500">people</span> are truly in control over
+            what happens.
           </template>
         </image-caption-container>
       </div>
     </div>
 
-    <div class="w-full lg:pt-16 xl:pt-24 lg:pb-16 xl:pb-24 bg-bg-secondary-500">
-      <h1
-        class="text-text-secondary-50 font-medium lg:text-4xl lg:text-5xl text-center"
-      >
+    <div class="w-full lg:pt-16 xl:pt-24 lg:pb-16 xl:pb-24 bg-green-500">
+      <h1 class="text-green-50 font-medium lg:text-4xl lg:text-5xl text-center">
         Differentiating Features
       </h1>
       <div></div>

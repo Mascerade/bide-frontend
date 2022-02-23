@@ -20,9 +20,7 @@
     <template v-slot:button>
       <general-button class="xl:mt-6 xl:pr-32 xl:pl-32">Log In</general-button>
     </template>
-    <router-link
-      class="xl:mt-4 xl:text-xl underline text-text-primary-700"
-      :to="'/'"
+    <router-link class="xl:mt-4 xl:text-xl underline text-gray-700" :to="'/'"
       >Back</router-link
     >
     <template v-slot:other-form-text>Create Account</template>

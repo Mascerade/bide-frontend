@@ -14,19 +14,11 @@ module.exports = {
       }
     },
     colors: {
-      'bg-primary': colors.white,
-      'text-primary': colors.gray,
-
-      'bg-primary-cp': colors.gray,
-      'text-primary-cp': colors.white,
-
-      'bg-secondary': colors.green,
-      'text-secondary': colors.green,
-
-      'bg-tertiary': colors.teal,
-      'text-tertiary': colors.teal,
-
-      'text-error': colors.red
+      gray: colors.gray,
+      white: colors.white,
+      green: colors.green,
+      teal: colors.teal,
+      red: colors.red
     }
   }
 }

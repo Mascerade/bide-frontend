@@ -3,7 +3,7 @@
     <div class="lg:h-full lg:w-3/5 flex justify-center items-center">
       <div class="lg:w-3/4 flex flex-col items-center">
         <h1
-          class="lg:text-5xl xl:text-6xl lg:mb-6 xl:mb-8 text-center font-semibold text-text-secondary-500"
+          class="lg:text-5xl xl:text-6xl lg:mb-6 xl:mb-8 text-center font-semibold text-green-500"
         >
           <slot name="title"></slot>
         </h1>
@@ -11,7 +11,7 @@
         <third-party-sign-in></third-party-sign-in>
 
         <h2
-          class="lg:mb-4 xl:mb-6 lg:text-md text-text-primary-600 font-medium text-center"
+          class="lg:mb-4 xl:mb-6 lg:text-md text-gray-600 font-medium text-center"
         >
           Or Sign-In Manually
         </h2>
@@ -21,13 +21,13 @@
         <slot name="button"></slot>
 
         <router-link
-          class="lg:mt-4 lg:text-lg xl:text-xl underline text-text-primary-700"
+          class="lg:mt-4 lg:text-lg xl:text-xl underline text-gray-700"
           :to="'/'"
           >Back</router-link
         >
 
         <router-link
-          class="lg:mt-1 lg:text-lg xl:text-xl underline text-text-primary-700"
+          class="lg:mt-1 lg:text-lg xl:text-xl underline text-gray-700"
           :to="otherForm"
           ><slot name="other-form-text"></slot
         ></router-link>
@@ -35,10 +35,10 @@
     </div>
 
     <div
-      class="lg:h-full lg:w-2/5 flex flex-col justify-center items-center bg-bg-secondary-300"
+      class="lg:h-full lg:w-2/5 flex flex-col justify-center items-center bg-green-300"
     >
       <h1
-        class="font-semibold text-text-primary-700 lg:text-5xl xl:text-6xl lg:mb-4 xl:mb-5"
+        class="font-semibold text-gray-700 lg:text-5xl xl:text-6xl lg:mb-4 xl:mb-5"
       >
         <slot name="top-image-desc"></slot>
       </h1>
@@ -46,7 +46,7 @@
         <img :src="imgSrc" alt="Forest" class="shadow-2xl rounded-full" />
       </div>
       <h1
-        class="font-semibold text-text-primary-700 lg:text-5xl xl:text-6xl lg:mt-4 xl:mt-5"
+        class="font-semibold text-gray-700 lg:text-5xl xl:text-6xl lg:mt-4 xl:mt-5"
       >
         <slot name="bottom-image-desc"></slot>
       </h1>

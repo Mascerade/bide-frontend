@@ -4,7 +4,7 @@
     :placeholder="placeholder"
     :value="inputBind"
     @input="$emit('update:inputBind', $event.target.value)"
-    class="h-12 w-11/12 pl-4 text-xl bg-bg-primary-cp-100 rounded-xl focus:outline-none mb-4"
+    class="h-12 w-11/12 pl-4 text-xl bg-gray-100 rounded-xl focus:outline-none mb-4"
   />
 </template>
 
