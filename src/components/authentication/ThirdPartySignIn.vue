@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:mb-8 flex flex-row justify-center">
+  <div class="xl:mb-8 flex flex-row justify-center">
     <auth-service-button
       class="mr-8"
       :src="require('../../assets/icons/google.png')"

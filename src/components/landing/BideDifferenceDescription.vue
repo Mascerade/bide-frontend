@@ -1,5 +1,5 @@
 <template>
-  <h2 class="text-text-primary-600 lg:text-3xl lg:leading-10 lg:mt-8">
+  <h2 class="text-text-primary-600 xl:text-3xl xl:leading-10 xl:mt-8">
     <slot></slot>
   </h2>
 </template>

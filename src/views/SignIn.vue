@@ -1,9 +1,9 @@
 <template>
-  <div class="lg:min-h-full fullscreen flex flex-row">
+  <div class="fullscreen xl:min-h-[750px] flex flex-row">
     <div
-      class="lg:h-full lg:w-2/5 flex flex-col justify-center items-center bg-bg-secondary-300"
+      class="xl:h-full xl:w-2/5 flex flex-col justify-center items-center bg-bg-secondary-300"
     >
-      <h1 class="font-semibold text-text-primary-700 lg:text-6xl lg:mb-5">
+      <h1 class="font-semibold text-text-primary-700 xl:text-6xl xl:mb-5">
         Welcome
       </h1>
       <img
@@ -11,15 +11,15 @@
         alt="Forest"
         class="shadow-2xl rounded-full"
       />
-      <h1 class="font-semibold text-text-primary-700 lg:text-6xl lg:mt-5">
+      <h1 class="font-semibold text-text-primary-700 xl:text-6xl xl:mt-5">
         Back
       </h1>
     </div>
 
-    <div class="lg:h-full lg:w-3/5 flex justify-center items-center">
-      <div class="lg:w-2/3 flex flex-col items-center">
+    <div class="xl:h-full xl:w-3/5 flex justify-center items-center">
+      <div class="xl:w-2/3 flex flex-col items-center">
         <h1
-          class="lg:text-6xl lg:mb-8 text-center font-semibold text-text-secondary-500"
+          class="xl:text-6xl xl:mb-8 text-center font-semibold text-text-secondary-500"
         >
           Log In
         </h1>
@@ -27,7 +27,7 @@
         <third-party-sign-in></third-party-sign-in>
 
         <h2
-          class="lg:mb-8 lg:text-md text-text-primary-600 font-medium text-center"
+          class="xl:mb-8 xl:text-md text-text-primary-600 font-medium text-center"
         >
           Or Sign-In Manually
         </h2>
@@ -40,16 +40,16 @@
           v-model:inputBind="password"
           disabled
         ></form-input>
-        <general-button class="lg:mt-10 lg:pr-32 lg:pl-32"
+        <general-button class="xl:mt-10 xl:pr-32 xl:pl-32"
           >Log In</general-button
         >
         <router-link
-          class="lg:mt-4 lg:text-lg underline text-text-primary-700"
+          class="xl:mt-4 xl:text-xl underline text-text-primary-700"
           :to="'/'"
           >Back</router-link
         >
         <router-link
-          class="lg:mt-4 lg:text-lg underline text-text-primary-700"
+          class="xl:mt-4 xl:text-xl underline text-text-primary-700"
           :to="'/signup'"
           >Create Account</router-link
         >
