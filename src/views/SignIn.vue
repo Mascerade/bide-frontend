@@ -1,13 +1,9 @@
 <template>
-<<<<<<< HEAD
   <auth-layout
     class="lg:flex-row-reverse"
     otherForm="/signup"
     :imgSrc="require('../assets/forest-4.png')"
   >
-=======
-  <auth-layout otherForm="/signup" :imgSrc="require('../assets/forest-4.png')">
->>>>>>> 7f6c267e14a43cfa6f077cfe3afb174026e33f7e
     <template v-slot:title>Sign In</template>
     <template v-slot:inputs>
       <form-input
