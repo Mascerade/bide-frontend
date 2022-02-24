@@ -55,7 +55,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from 'vue'
+import { defineComponent } from 'vue'
 import ThirdPartySignIn from '@/components/authentication/ThirdPartySignIn.vue'
 
 export default defineComponent({
