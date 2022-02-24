@@ -1,19 +1,23 @@
 <template>
   <div class="w-full h-full lg:flex-col">
-    <div class="w-full xl:h-32 bg-green-400"></div>
     <div class="w-full flex">
-      <div class="h-full xl:w-48 flex flex-col border-2">
+      <div
+        class="xl:h-screen xl:min-h-[500px] xl:w-56 flex flex-col border-r-2 border-gray-50 shadow-xl"
+      >
+        <div class="w-full xl:h-14 bg-green-400"></div>
         <profile-image
-          class="relative xl:bottom-14 self-center"
+          class="relative xl:bottom-12 self-center"
         ></profile-image>
-        <div class="relative xl:bottom-14 xl:pt-2">
-          <p>@Username</p>
-          <p>First Name</p>
-          <p>Last Name</p>
-          <p>Description</p>
+        <div class="relative xl:bottom-12 xl:pt-2 xl:pl-2">
+          <p class="xl:text-lg">@Username</p>
+          <p class="xl:text-md xl:mt-2">First Name</p>
+          <p class="xl:text-md xl:mt-1">Last Name</p>
+          <p class="xl:text-md xl:mt-1">Description</p>
         </div>
-        <div class="flex-grow"></div>
-        <div class="border-2">sasdf</div>
+        <hr class="relative xl:bottom-12" />
+        <div class="relative flex-grow xl:bottom-12"></div>
+        <hr class="relative xl:bottom-12" />
+        <div class="relative xl:bottom-12">sasdf</div>
       </div>
 
       <div class="flex-grow"></div>
