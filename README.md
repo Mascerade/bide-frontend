@@ -29,3 +29,4 @@
 <a href="https://www.flaticon.com/free-icons/public" title="public icons">Public icons created by Iconjam - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/pray" title="pray icons">Pray icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/criticism" title="criticism icons">Criticism icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Becris - Flaticon</a>
